@@ -14,8 +14,7 @@ export default function Landing() {
         </h1>
 
         <p className="text-neutral-300 text-base md:text-lg leading-relaxed mb-10 max-w-md block">
-          Форум без лайков, рейтингов и алгоритмов.
-          Только мысли и диалог между пользователями.
+          Добровать пожаловать на Мысли.Онлайн ; форум где нет рейтинга и алгоритмов ,а только коммуникация 
         </p>
 
         <div className="flex gap-4 w-full justify-center">
